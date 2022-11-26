@@ -1,1 +1,1 @@
-# HAMS-v.2
+# HAMS
